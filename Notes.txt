@@ -5,3 +5,4 @@
 5) https://github.com/By2r/github-final-project/blob/main/simple-interest.sh - The URL to the simple-interest.sh
 6) https://github.com/By2r/jbbmo-Introduction-to-Git-and-GitHub?organization=By2r&organization=By2r - The URL to the forked repo
 7) https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/10850 - The PR URL
+8) https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/10851 - The 2nd PR URL
