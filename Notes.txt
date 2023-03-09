@@ -1,3 +1,4 @@
 1) https://github.com/By2r/github-final-project - The URL to the repository
 2) https://github.com/By2r/github-final-project/edit/main/README.md - The URL to the README.md
-3) 
+3) https://github.com/By2r/github-final-project/blob/main/CODE_OF_CONDUCT.md - The URL to the CODE_OF_CONDUCT.md
+
