@@ -2,3 +2,4 @@
 2) https://github.com/By2r/github-final-project/edit/main/README.md - The URL to the README.md
 3) https://github.com/By2r/github-final-project/blob/main/CODE_OF_CONDUCT.md - The URL to the CODE_OF_CONDUCT.md
 4) https://github.com/By2r/github-final-project/blob/main/CONTRIBUTING.md - The URL to the CONTRIBUTING.md
+5) https://github.com/By2r/github-final-project/blob/main/simple-interest.sh - The URL to the simple-interest.sh
